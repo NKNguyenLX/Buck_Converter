@@ -1,0 +1,1 @@
+"./main.obj" "./lib/ADC.obj" "./lib/Basic_config.obj" "./lib/Buck_boost.obj" "./lib/UART.obj" "./lib/pid.obj" "../lnk_msp430g2553.cmd" -llibc.a 
